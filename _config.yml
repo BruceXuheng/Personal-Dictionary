@@ -2,3 +2,4 @@
 # Build settings
 markdown:kradown
 theme: jekyll-theme-leap-day
+gem “ github-pages ”，group  :: jekyll_plugins
