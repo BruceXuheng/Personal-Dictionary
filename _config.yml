@@ -16,7 +16,7 @@
    hard_wrap: false
  future: true
  jailed: false
- theme: Twenty
+ remote_theme: paypal.me/PhlowMedia
  gfm_quirks: paragraph_end
 
 #Site Setting
