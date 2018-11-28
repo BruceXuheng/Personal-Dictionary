@@ -16,7 +16,7 @@
    hard_wrap: false
  future: true
  jailed: false
- remote_theme: paypal.me/PhlowMedia
+ remote_theme: jekyll-theme-twenty
  gfm_quirks: paragraph_end
 
 #Site Setting
