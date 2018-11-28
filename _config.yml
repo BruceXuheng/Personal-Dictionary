@@ -16,7 +16,7 @@
    hard_wrap: false
  future: true
  jailed: false
- remote_theme: jekyll-theme-architect
+ theme: jekyll-theme-architect
  gfm_quirks: paragraph_end
 
 #Site Setting
