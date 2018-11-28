@@ -1,4 +1,4 @@
 
 # Build settings
 markdown:kradown
-remote_theme:Twenty
+theme: jekyll-theme-leap-day
