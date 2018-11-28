@@ -1,5 +1,12 @@
 
 # Build settings
-markdown:kradown
-theme: jekyll-theme-leap-day
-gem “ github-pages ”，group  :: jekyll_plugins
+
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-leap-day
+ gfm_quirks: paragraph_end
