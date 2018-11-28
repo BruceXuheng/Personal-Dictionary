@@ -1,4 +1,5 @@
 
+#设置jekll配置
  - jekyll-feed
  - jekyll-redirect-from
  - jekyll-seo-tag
@@ -9,13 +10,15 @@
  - jekyll-include-cache
 
 # Build settings
-
- github: [metadata]
  encoding: UTF-8
  kramdown:
    input: GFM
    hard_wrap: false
  future: true
  jailed: false
- theme: jekyll-theme-leap-day
+ theme: Twenty
  gfm_quirks: paragraph_end
+
+#Site Setting
+title：陈旭恒 博客
+email：BruceXuheng@163.com
