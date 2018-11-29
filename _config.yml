@@ -9,10 +9,6 @@
  theme: jekyll-theme-architect
  gfm_quirks: paragraph_end
 
-#Site Setting
-title: "陈旭恒 博客"
-description: "Not LOve Me"
-
 # Site settings
 title: 陈旭恒 博客             # 你的博客网站标题
 SEOTitle: "Not LOve Me"			# 在后面会详细谈到
