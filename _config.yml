@@ -13,4 +13,14 @@
 title: "陈旭恒 博客"
 description: "Not LOve Me"
 
-theme: jekyll-theme-architect
+# Site settings
+title: 陈旭恒 博客             # 你的博客网站标题
+SEOTitle: "Not LOve Me"			# 在后面会详细谈到
+description: "Not LOve Me"    # 随便说点，描述一下
+
+# SNS settings      
+github_username: BruceXuheng     # 你的github账号
+weibo_username: Mr_亮亮先生      # 你的微博账号，底部链接会自动更新的。
+
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
