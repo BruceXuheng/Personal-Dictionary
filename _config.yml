@@ -22,3 +22,5 @@ weibo_username: Mr_亮亮先生      # 你的微博账号，底部链接会自�
 # paginate: 10              # 一页你准备放几篇文章
 
 theme:jekyll-theme-minimal
+
+theme: jekyll-theme-dinky
