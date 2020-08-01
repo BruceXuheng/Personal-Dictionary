@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_1"
+        android:icon="@color/design_default_color_on_primary"
+        android:title="他"
+       />
+    <item
+        android:id="@+id/fragment_2"
+        android:icon="@color/design_default_color_on_primary"
+        android:title="他"
+        />
+    <item
+        android:id="@+id/fragment_3"
+        android:icon="@color/design_default_color_on_primary"
+        android:title="他"
+        />
+    <item
+        android:id="@+id/fragment_4"
+        android:icon="@color/design_default_color_on_primary"
+        android:title="他"
+        />
+    <item
+        android:id="@+id/fragment_5"
+        android:icon="@color/colorAccent"
+        android:title="他"
+        />
+
+</menu>

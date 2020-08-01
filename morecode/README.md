@@ -5,6 +5,9 @@
 ## test_card
 
   RecyclerView实现卡片式重叠，可以拖拉拽每个卡片
-  
-  
-## 
+
+
+## chen_viewpager
+
+	记录了ViewPager1+fragment的基本使用及使用优化，在嵌套ViewPager下的Fragment的处理。
+	优化点共5版，分别对应了各类问题，最后解决了 子fragment嵌套了子fragment的问题。
