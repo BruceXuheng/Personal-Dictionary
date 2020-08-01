@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#c0c0c0"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/tv_main_recy"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:background="#fff"
+        android:gravity="center"
+        android:text="初始化..."
+        android:textSize="20sp"
+        />
+
+</LinearLayout>

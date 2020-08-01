@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_m"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:elevation="4dp"
+        android:background="@color/design_default_color_primary"
+        app:logo="@drawable/ic_launcher_foreground"
+        app:navigationIcon="@mipmap/ic_launcher"
+        app:popupTheme="@style/ToolBarPopupTheme"
+        app:subtitle="副标题"
+        app:title="ToolBar展示">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="自定义演示"
+            />
+    </androidx.appcompat.widget.Toolbar>
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_o"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:elevation="4dp"
+        android:background="@color/design_default_color_primary"
+        app:logo="@drawable/ic_launcher_foreground"
+        app:navigationIcon="@mipmap/ic_launcher"
+        app:popupTheme="@style/ToolBarPopupTheme"
+        app:subtitle="副标题"
+        app:title="ToolBar展示">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="自定义演示"
+            />
+    </androidx.appcompat.widget.Toolbar>
+
+</LinearLayout>
